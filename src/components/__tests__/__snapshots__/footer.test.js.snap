@@ -176,7 +176,7 @@ exports[`Footer component renders correctly 1`] = `
   <div
     className="py-2 mt-2"
   >
-    Developed in India
+    Developed in Pakistan
      
     <span
       aria-label="india"

@@ -35,7 +35,7 @@ const DEFAULT_PREFIX = {
 
 const DEFAULT_DATA = {
   title: 'dummy',
-  subtitle: 'A passionate frontend developer from India',
+  subtitle: 'A passionate frontend developer from Pakistan',
   currentWork: 'readme-generator',
   currentLearn: '',
   collaborateOn: '',

@@ -14,7 +14,7 @@ export const DEFAULT_PREFIX = {
 
 export const DEFAULT_DATA = {
   title: '',
-  subtitle: 'A passionate frontend developer from India',
+  subtitle: 'A passionate frontend developer from Pakistan',
   currentWork: '',
   currentLearn: '',
   collaborateOn: '',

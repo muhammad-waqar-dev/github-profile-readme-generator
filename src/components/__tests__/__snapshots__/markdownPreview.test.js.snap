@@ -108,7 +108,7 @@ exports[`Markdown Preview renders correctly 1`] = `
     title="dummy"
   />
   <SubTitlePreview
-    subtitle="A passionate frontend developer from India"
+    subtitle="A passionate frontend developer from Pakistan"
   />
   <VisitorsBadgePreview
     badgeOptions={
@@ -157,7 +157,7 @@ exports[`Markdown Preview renders correctly 1`] = `
           "helpWith": "",
           "mediumDynamicBlogs": false,
           "rssDynamicBlogs": false,
-          "subtitle": "A passionate frontend developer from India",
+          "subtitle": "A passionate frontend developer from Pakistan",
           "title": "dummy",
           "topLanguages": false,
           "topLanguagesOptions": Object {
@@ -473,7 +473,7 @@ exports[`SubTitle Preview renders correctly 1`] = `
 <h3
   className="text-center font-medium"
 >
-  A passionate frontend developer from India
+  A passionate frontend developer from Pakistan
 </h3>
 `;
 

@@ -92,7 +92,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="py-2 mt-2">
-      Developed in India{' '}
+      Developed in Pakistan{' '}
       <span role="img" aria-label="india">
         {' '}
         🇮🇳

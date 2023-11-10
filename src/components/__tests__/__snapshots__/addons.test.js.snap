@@ -299,7 +299,7 @@ exports[`Addons should render Customize Badges 1`] = `
       "helpWith": "",
       "mediumDynamicBlogs": "some-medium-blogs-value",
       "rssDynamicBlogs": false,
-      "subtitle": "A passionate frontend developer from India",
+      "subtitle": "A passionate frontend developer from Pakistan",
       "title": "",
       "topLanguages": false,
       "topLanguagesOptions": Object {
@@ -1006,7 +1006,7 @@ exports[`Addons should render Customize Github stats card 1`] = `
       "helpWith": "",
       "mediumDynamicBlogs": "some-medium-blogs-value",
       "rssDynamicBlogs": false,
-      "subtitle": "A passionate frontend developer from India",
+      "subtitle": "A passionate frontend developer from Pakistan",
       "title": "",
       "topLanguages": false,
       "topLanguagesOptions": Object {
@@ -1808,7 +1808,7 @@ exports[`Addons should render Customize Top Skills Card 1`] = `
       "helpWith": "",
       "mediumDynamicBlogs": "some-medium-blogs-value",
       "rssDynamicBlogs": false,
-      "subtitle": "A passionate frontend developer from India",
+      "subtitle": "A passionate frontend developer from Pakistan",
       "title": "",
       "topLanguages": false,
       "topLanguagesOptions": Object {

@@ -9,7 +9,7 @@ jest.useFakeTimers();
 describe('Addons', () => {
   const dataInput = {
     title: '',
-    subtitle: 'A passionate frontend developer from India',
+    subtitle: 'A passionate frontend developer from Pakistan',
     currentWork: '',
     currentLearn: '',
     collaborateOn: '',

@@ -31,7 +31,7 @@ describe('Markdown', () => {
       helpWith: '',
       mediumDynamicBlogs: false,
       rssDynamicBlogs: false,
-      subtitle: 'A passionate frontend developer from India',
+      subtitle: 'A passionate frontend developer from Pakistan',
       title: 'title',
       topLanguages: false,
       topLanguagesOptions: {
